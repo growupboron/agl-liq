@@ -1,3 +1,9 @@
+# agl-liq
+
+- Porting liq to agl
+- Depends on ros2 and ydlidar drivers.
+
+```
 # LiQ (Lidar Qt)
 First pass at using the Slamtec LiDAR SDK to draw a representation of one scan.
 
@@ -13,3 +19,4 @@ First pass at using the Slamtec LiDAR SDK to draw a representation of one scan.
 
 ## Caveats
 This barely works. Selecting the USB port will cause one scan. Selecting it again will scan again. Or, maybe crash. YMMV. It'll get better.
+```
